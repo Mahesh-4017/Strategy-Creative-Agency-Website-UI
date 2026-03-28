@@ -7,7 +7,7 @@ This project focuses on **premium design aesthetics, smooth animations, and resp
 
 ## 🌐 Live Demo
 
-👉 https://clinic-website-ui.netlify.app
+👉 https://strategy-creative-agency-website.netlify.app
 
 ---
 
